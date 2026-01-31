@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Classses e Construtores
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Estruturas", "2 - Estruturas", "{FE09D3C5-7882-4513-BED9-B86F90D672A9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estruturas", "src\Estruturas\Estruturas.csproj", "{E47BD464-6F84-453C-9B39-A7F419C5F6C1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,12 +21,17 @@ Global
 		{A67FA88C-12ED-4B31-AA1C-EDD51D058068}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A67FA88C-12ED-4B31-AA1C-EDD51D058068}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A67FA88C-12ED-4B31-AA1C-EDD51D058068}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E47BD464-6F84-453C-9B39-A7F419C5F6C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E47BD464-6F84-453C-9B39-A7F419C5F6C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E47BD464-6F84-453C-9B39-A7F419C5F6C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E47BD464-6F84-453C-9B39-A7F419C5F6C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{A67FA88C-12ED-4B31-AA1C-EDD51D058068} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{E47BD464-6F84-453C-9B39-A7F419C5F6C1} = {FE09D3C5-7882-4513-BED9-B86F90D672A9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9C5F1A9D-B9AF-45C5-8085-13371D1FE120}
