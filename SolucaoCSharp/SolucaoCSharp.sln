@@ -5,7 +5,7 @@ VisualStudioVersion = 17.14.36518.9
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoCSharpConsole", "src\ProjetoCSharpConsole\ProjetoCSharpConsole.csproj", "{A67FA88C-12ED-4B31-AA1C-EDD51D058068}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Classses e Construtores", "1 - Classses e Construtores", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Classes e Construtores", "1 - Classes e Construtores", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Estruturas", "2 - Estruturas", "{FE09D3C5-7882-4513-BED9-B86F90D672A9}"
 EndProject
